@@ -31,6 +31,8 @@
 45419PCCW-HKT"PCCW-HKT
 
 45420PCCW-HKT"PCCW-HKT
+!
+454383China Mobile HK"CMHK
 
 45500SmarTone"SmarTone
 
@@ -55,6 +57,9 @@ CHN-UNICOM"UNICOM
 
 46003China Telecom"CTC
 
+46006
+CHN-UNICOM"UNICOM
+
 46007CHINA MOBILE"CMCC
 
 46008CHINA MOBILE"CMCC
@@ -65,6 +70,8 @@ CHN-UNICOM"UNICOM
 46011China Telecom"CTC
 
 46015CHINA BROADNET"CBN
+
+46016CHINA BROADNET"CBN
 
 46021CHINA MOBILE"CMCC
 
@@ -83,5 +90,11 @@ CHN-UNICOM"UNICOM
 46060CHINA BROADNET"CBN
 
 46061CHINA BROADNET"CBN
+#
+46601Far EasTone"Far EasTone
+#
+46602Far EasTone"Far EasTone
+#
+46603Far EasTone"Far EasTone
 
 46605GT 4G"GT 4G(Published_SE13_Database_26_February_2013
